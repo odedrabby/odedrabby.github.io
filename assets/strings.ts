@@ -6,13 +6,15 @@ export const discoPath = "assets/disco.mp3"
 
 export const discoLyrics = [
   'דיסקו, דיסקו מקלטים',
-  'החיים שלפני, נשיקות ראשונות בשיחים',
+  'החיים שלפני',
+  'נשיקות ראשונות בשיחים',
   'דיסקו מקלטים',
   'אם יש גאולה בעולם',
   'היא הייתה בידך כשהיינו רוקדים',
   '',
   'דיסקו, דיסקו מקלטים',
-  'ויש טעם בפה של סיגריות, אניס ופרחים',
+  'ויש טעם בפה של סיגריות',
+  'אניס ופרחים',
   'בצידי דרכים',
   'הייתי אני באמת',
   'ומי את היית? כשהיינו הולכים',
@@ -34,12 +36,21 @@ export const discoLyrics = [
 ]
 
 // Letter
-export const introTitle = 'עודד רבי';
-export const introParagraph = [
-  'עודד תביא לי טקסט',
-  'דחוףףףף',
+export const introTitle = [
+  'עודד רבי',
+  'דיסקו מקלטים',
 ]
+export const introParagraph = [
+  'את "דיסקו מקלטים" צריך לשמוע בנסיעה לילית באוטו, ועדיף באיזשהו מרחב כפרי.',
+  'הוא מורכב מנוף הילדות שלי, מאהבה וגם מאובדן, יש בו סיפור משפחתי, שאלות, התחייבות וגעגוע.',
+  'הוא נשמע עצוב אבל לדעתי הוא שמח, והוא יוצא כסינגל מתוך מתוך האלבום "הכביש הישן".',
+]
+
 export const pathToCover = 'assets/disco-cover.jpg';
+
+
+// Profile
+export const profilePicPath = 'assets/oded.jpg'
 
 
 // Social
@@ -47,8 +58,8 @@ export const facebook = 'https://www.facebook.com/OdedRabbyMusic/'
 export const instagram = 'https://www.instagram.com/odedrabby/'
 export const linkTree = 'https://linktr.ee/odedrabby'
 export const linkTreePath = 'assets/linktreeLogo.png'
-export const album = 'https://fanlink.tv/HakvishHaYashan'
-export const shever = 'https://linktr.ee/shvrrecords'
+export const shvrLink = 'https://linktr.ee/shvrrecords'
+export const shvrBigPath = 'assets/shvrFullLogo.png'
 export const email = 'odedrabbymusic@gmail.com'
 
 
